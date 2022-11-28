@@ -1,4 +1,4 @@
-# kickstarter-analysi
+# kickstarter-analysis
 Perorming a anaylsis of theater campaigns to discover trends
 
 ## Overview
